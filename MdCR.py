@@ -5,7 +5,7 @@ import os
 # Conditions
 
 # Files that end with these exstensions will be moved and renamed
-Extension = (".m4a",".M4a",".M4A", ".mp3", ".Mp3", ".MP3")
+Extension = (".m4a", ".M4a", ".M4A", ".mp3", ".Mp3", ".MP3")
 # RootDir is the current iTunes library music folder
 RootDir = r'/Users/LukeSkywalker/Music/iTunes/iTunes\ Media/Music'
 # NewDir is a new directory where you want to move your music
