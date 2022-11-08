@@ -6,9 +6,9 @@ import os
 
 # Files that end with these exstensions will be moved and renamed
 Extension = (".m4a", ".M4a", ".M4A", ".mp3", ".Mp3", ".MP3")
-# RootDir is the current iTunes library music folder
+# RootDir is a directory containing your current music library
 RootDir = r'/Users/LukeSkywalker/Music/NewLibrary/Import'
-# NewDir is a new directory where you want to move your music
+# NewDir is a directory into which you want to move your music to
 NewDir = r'/Users/LukeSkywalker/Music/NewLibrary/Export'
 
 # Renaming Files
