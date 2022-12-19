@@ -5,9 +5,12 @@ MdCR is a simple Python script that de-consolidates iTunes/Music library. It mov
 
 ### Demo
 Before the script is (run in RootDir)
+
 <img width="744" alt="RootDir" src="https://user-images.githubusercontent.com/53236299/208443318-5a960b7e-4822-4b06-9f1e-c964189ddbb2.png">
 
 After the script is run (in NewDir)
+
+<img width="503" alt="NewDir" src="https://user-images.githubusercontent.com/53236299/208443443-7f1e0102-0a3d-4d05-bbc7-a0093f5a6db0.png">
 
 https://user-images.githubusercontent.com/53236299/208431423-032ecb73-66cf-4f0a-afb3-ef3e3b6d6323.mov
 
