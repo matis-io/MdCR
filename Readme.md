@@ -13,5 +13,4 @@ https://user-images.githubusercontent.com/53236299/208431423-032ecb73-66cf-4f0a-
 Before running the script please edit RootDir and NewDir parameters to your liking.
 
 ### Donation
-If you found this script useful please consider purchasing a song on my ![bandcamp](https://matisme.bandcamp.com/)
-. I get a donation, you get a song. Win-Win.
+If you found this script useful please consider purchasing a song on my [bandcamp](https://matisme.bandcamp.com/). I get a donation, you get a song. Win-Win.
