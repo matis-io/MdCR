@@ -3,7 +3,7 @@
 
 MdCR is a simple Python script that de-consolidates iTunes/Music library. It moves all the music files into one folder and adds the artist name to the filename.
 
-### Demo
+### Demo / Example
 Before the script is run (RootDir)
 
 <img width="744" alt="RootDir" src="https://user-images.githubusercontent.com/53236299/208443318-5a960b7e-4822-4b06-9f1e-c964189ddbb2.png">
